@@ -14,7 +14,7 @@ Use final variables for each conversion rate
 Choose variable names which are meaningful for this problem.*/
 
 import java.util.Scanner;
-class CurrencyConversion {
+class Program {
     public static void main(String[] args) {
         final int KLEVINSPERSCHRUTE = 20;
         final int STANLEYPERKELVIN = 12;
